@@ -1,0 +1,61 @@
+            <div class="topSearchCont">
+                <div class="registrationFormCont">
+                    <form action="{{url('suppliers-list')}}" method="get">
+                        <div class="row">
+                            <div class="col-sm-6 registrationFormFieldCont">
+                                <label>Main Categories</label>
+                                <select name="main_categories" class="customDropdown form-control" aria-describedby="basic-addon1" 
+                                    onchange="getSubCategories(this, '{{$filterValues['sub_categories']}}');">
+                                    <option value="">- Please Select -</option>
+                                    @foreach ($categories as $category)
+                                        <option @if ($category->id == $filterValues['main_categories']) selected @endif 
+                                                 value="{{$category->id}}">{{$category->name}}</option>
+                                    @endforeach
+                                </select>
+                            </div>
+                            <div class="col-sm-6 registrationFormFieldCont">
+                                <label>Sub Categories</label>
+                                <select name="sub_categories" id="sub_categories" class="customDropdown form-control" 
+                                        aria-describedby="basic-addon1">
+
+                                </select>
+                            </div>
+
+                            <div class="col-sm-3 registrationFormFieldCont">
+                                <label>Province/State</label>
+                                <select name="states" class="customDropdown form-control input-lg" aria-describedby="basic-addon1" data-live-search="true" 
+                                        onchange="getCities(this, 'service_cities', '{{$filterValues['cities']}}');">
+                                    <option value="">Select Province/State</option>
+                                    @foreach ($states as $state)
+                                        <option @if ($state->id == $filterValues['states']) selected @endif value="{{$state->id}}" 
+                                                 data-stateiso="{{$state->iso}}">{{$state->name}}</option>
+                                    @endforeach
+                                </select>
+                            </div>
+                            <div class="col-sm-3 registrationFormFieldCont">
+                                <label>City</label>
+                                <select name="cities" id="service_cities" class="customDropdown form-control input-lg" 
+                                        aria-describedby="basic-addon1" data-live-search="true" onchange="">
+                                    endforeach-->
+                                </select>
+                            </div>
+                            <div class="col-sm-3 registrationFormFieldCont">
+                                <label>Postal Code</label>
+                                <input type="text" class="form-control input-large" value="{{$filterValues['postal_code']}}" name="postal_code" 
+                                       aria-describedby="basic-addon1" onblur="">
+                            </div>
+                            <div class="col-sm-3 registrationFormFieldCont text-right">
+                                <input type="submit" class="btn blackBtn btnWithRightArrow" name='suppliersFilter' value="Search"/>
+                            </div>
+                        </div>
+        
+                        <script type="text/javascript">
+                            jQuery(window).ready(function() {
+                                getSubCategories("[name='main_categories']", '{{$filterValues["sub_categories"]}}');
+                                getCities("[name='states']", 'service_cities', '{{$filterValues["cities"]}}');
+                            });
+                        </script>
+                        
+                    </form>
+                </div>
+            </div>

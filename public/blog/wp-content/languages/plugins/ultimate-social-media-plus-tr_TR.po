@@ -1,0 +1,1590 @@
+# Translation of Plugins - Social Media - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Social Media - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-31 05:42:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Social Media - Stable (latest release)\n"
+
+#: views/sfsi_option_view3.php:318
+msgid "to offer your icons here and get a free link (& traffic) back to your site!"
+msgstr "böylece simgeleriniz burada görünür ve sitenize ücretsiz bir bağlantı (& trafik) almış olursunuz!"
+
+#: views/sfsi_option_view3.php:316
+msgid " Contact us"
+msgstr "Bizimle iletişime geçin"
+
+#: views/sfsi_option_view3.php:314
+msgid "Are you an icon designer?"
+msgstr "Simge tasarımcısı mısınız?"
+
+#: views/sfsi_pop_content.php:35
+msgid "If you already have an account, please "
+msgstr "Eğer bir hesabınız varsa, lütfen"
+
+#: views/sfsi_pop_content.php:32
+msgid "Privacy Policy"
+msgstr "Gizlilik politikası"
+
+#: views/sfsi_pop_content.php:32
+msgid "We will treat your data (and your subscribers’ data!) highly confidentially, see our "
+msgstr "Sizin (ve abonelerinizin!) verilerine gizlilik ve titizlikle yaklaşmaktayız, lütfen şurayı gözden geçirin:"
+
+#: views/sfsi_pop_content.php:32
+msgid "SpecificFeeds"
+msgstr "SpecificFeeds"
+
+#: views/sfsi_pop_content.php:32
+msgid "This will create your FREE acccount on "
+msgstr "Bu sizin ÜCRETSİZ hesabınızı şurada oluşturur:"
+
+#: views/sfsi_pop_content.php:28
+msgid "Give me access!"
+msgstr "Bana erişim ver!"
+
+#: views/sfsi_pop_content.php:21
+msgid "Please enter your email"
+msgstr "Lütfen e-posta adresinizi girin"
+
+#: views/sfsi_option_view9.php:102
+msgid "click here."
+msgstr "buraya tıklayınız."
+
+#: views/sfsi_option_view2.php:164
+msgid "Get full access now."
+msgstr "Hemen tam erişim alın."
+
+#: views/sfsi_options_view.php:193
+msgid "for that so that we can send you the instructions. Thank you :)"
+msgstr "Böylece size uygulayacağınız adımları yollayabiliriz. Teşekkürler :)"
+
+#: views/sfsi_options_view.php:165 views/sfsi_options_view.php:191
+msgid "support@ultimatelysocial.com"
+msgstr "support@ultimatelysocial.com"
+
+#: views/sfsi_options_view.php:189
+msgid "You speak a language different than English? Please help us translate it! Please contact us at"
+msgstr "Türkçe dışında bir dil mi konuşuyorsunuz? Lütfen bize çevirmemiz için yardım edin! Lütfen bizimle şu adresten iletişime geçin:"
+
+#: views/sfsi_option_view4.php:497
+msgid "Video how to get the Google+ API key:"
+msgstr "Google+ API anahtarını almak için video:"
+
+#: views/sfsi_option_view3.php:341
+msgid "Scale"
+msgstr "Ölçek"
+
+#: views/sfsi_option_view8.php:270
+msgid "Or use the shortcode [DISPLAY_ULTIMATE_PLUS] to display them wherever you want."
+msgstr "Ya da [DISPLAY_ULTIMATE_PLUS] kısakodunu kullanarak istediğiniz zaman görüntüleyin."
+
+#: views/sfsi_option_view8.php:266
+msgid "Place the following string into your theme codes: "
+msgstr "Ekteki satırı lütfen tema kodunuzun içine yerleştiriniz:"
+
+#: libs/sfsi_install_uninstall.php:574
+msgid "Error: Please fix your theme to make plugins work correctly. Go to the Theme Editor and insert the following string as the first line of your theme's footer.php file: "
+msgstr "Hata: Lütfen temanızı eklentiler düzgün çalışacak şekilde düzenleyiniz. Tema Editörünüze giderek aşağıdaki satırı temanızın footer.php dosyası ilk satırına giriniz: "
+
+#: libs/sfsi_install_uninstall.php:550 libs/sfsi_install_uninstall.php:574
+msgid "Go to your theme editor: "
+msgstr "Tema editörünüze gidiniz:"
+
+#: libs/sfsi_install_uninstall.php:550
+msgid "Please enter it just before the following line of your header.php file:"
+msgstr "Lütfen header.php dosyasının takip eden satırından öncesine giriniz:"
+
+#: libs/sfsi_install_uninstall.php:550
+msgid "Error : Please fix your theme to make plugins work correctly. Go to the Theme Editor and insert the following string:"
+msgstr "Hata : Lütfen temanızı eklentileri doğru çalışacak şekilde düzeltiniz. Tema Editörüne giderek aşağıdaki satırı ekleyiniz:"
+
+#: views/sfsi_option_view1.php:288
+msgid "Visit Houzz"
+msgstr "Houzz'u ziyaret edin"
+
+#: views/sfsi_option_view1.php:263
+msgid "Check out their reviews:"
+msgstr "Yorumlarını kontrol edin:"
+
+#: views/sfsi_option_view1.php:104
+msgid "Not offering an email subscription option means losing out on future traffic to your site."
+msgstr "E-posta aboneliği seçeneğini önermemek sitenizin gelecekteki trafiğinde kayıplara neden olacaktır."
+
+#: views/sfsi_option_view1.php:100
+msgid "Everybody uses email – that’s why it’s much more effective than social media to make people follow you"
+msgstr "Herkes e-posta kullanır - bu sebeple insanların sizi takip etmesi için sosyal medyadan daha etkili bir araçtır"
+
+#: views/sfsi_option_view1.php:70
+msgid "Learn more about RSS"
+msgstr "RSS hakkında daha fazla bilgi öğren"
+
+#: views/sfsi_option_view1.php:68
+msgid "RSS stands for Really Simply Syndication and is an easy way for people to read your content. "
+msgstr "RSS, Çok Basit Besleme anlamındadır ve insanların sizin içeriğinizi okumaları için oldukça kolay bir yoldur."
+
+#: views/sfsi_options_view.php:172
+msgid "Visit us on ultimatelysocial.com"
+msgstr "Bizi ultimatelysocial.com sitesinden ziyaret edin"
+
+#: views/sfsi_options_view.php:73
+msgid "If you have questions, or something doesn`t work as it should, please read the FAQ:"
+msgstr "Eğer sorularınız varsa ya da herhangi bir şey olması gerektiği gibi çalışmıyorsa, lütfen SSS'ı okuyunuz:"
+
+#: views/sfsi_option_view9.php:132
+msgid "Go to the widget settings and drag and drop it to the sidebar:"
+msgstr "Bileşen ayarlarına gidin ve kenar çubuğuna sürükleyip bırakın:"
+
+#: views/sfsi_option_view8.php:125
+msgid "Go to the widget area and drag & drop it where you want to have it!"
+msgstr "Bileşen alanına gidin ve nerede olmasını istiyorsanız sürükleyin & bırakın!"
+
+#: views/sfsi_option_view7.php:257
+msgid "Border Shadow:"
+msgstr "Kenarlık gölgesi:"
+
+#: views/sfsi_option_view7.php:249
+msgid "Border Thinckness:"
+msgstr "Kenarlık kalınlığı:"
+
+#: views/sfsi_option_view7.php:235
+msgid "Background Color:"
+msgstr "Arkaplan rengi:"
+
+#: views/sfsi_option_view7.php:143
+msgid "Text and Design"
+msgstr "Metin ve tasarım"
+
+#: views/sfsi_option_view5.php:443 views/sfsi_option_view8.php:406
+msgid "pixels wide and tall"
+msgstr "piksel genişliği ve uzunluğu"
+
+#: views/sfsi_option_view5.php:435 views/sfsi_option_view8.php:400
+msgid "Size and spacing of your icons"
+msgstr "Simgelerinizin boyutu ve aralıklandırması"
+
+#: views/sfsi_option_view5.php:430
+msgid "Drag and Drop"
+msgstr "Sürükle ve bırak"
+
+#: views/sfsi_option_view4.php:153
+msgid "Therefore, you can select to display the count next to your icons which will look like this:"
+msgstr "Bu nedenle, simgenizin yanına şu şekilde görünecek bir sayaç eklemeyi seçebilirsiniz:"
+
+#: views/sfsi_option_view4.php:150
+msgid "It’s a psychological fact that people like to follow other people, so when they see that your site has already a good number of Facebook likes, it’s more likely that they will subscribe/like/share your site than if it had 0."
+msgstr "İnsanların başkalarını takip etmeyi sevmesi psikolojik bir gerçekliktir, bu sebeple 0 beğeni almış bir siteye nazaran çok sayıda Facebook beğenisi almış bir siteye abone olmaları/beğenmeleri/paylaşmaları olasılığı çok daha yüksektir."
+
+#: views/sfsi_option_view3.php:47
+msgid "The icons have been compressed by Shortpixel.com for faster loading of your site. Thank you Shortpixel!"
+msgstr "Simgeler Shortpixel.com tarafından sitenizin daha hızlı yüklenmesi için sıkıştırılmıştır. Teşekkürler Shortpixel!"
+
+#: views/sfsi_option_view3.php:39
+msgid "It comes across as more professional and gives your site more “credit”"
+msgstr "Bu daha profesyonelce kabul edilmektedir ve sitenize daha fazla \"ihtibar\" kazandıracaktır"
+
+#: views/sfsi_option_view2.php:168
+msgid "Learn more."
+msgstr "Detaylı bilgi."
+
+#: views/sfsi_option_view2.php:166
+msgid "It also makes sense if you already offer an email newsletter:"
+msgstr "Zaten e-posta haber bülteni seçeneğini önerdiyseniz bu anlamlı bir adımdır:"
+
+#: views/sfsi_option_view2.php:162
+msgid "Sends your new posts automatically to subscribers. It`s FREE and you get full access to your subscriber`s emails and interesting statistics:"
+msgstr "Abonelerinize yeni gönderilerinizi otomatik olarak gönderin. Bu işlem BEDAVADIR ve size abonelerinizin e-posta adreslerine ve istatistiklerine ulaşmanıza olanak verir:"
+
+#: views/sfsi_option_view2.php:144
+msgid "For most blogs it’s http://blogname.com/feed"
+msgstr "Bloglar için genelde http://blogname.com/feed"
+
+#: libs/sfsi_install_uninstall.php:550 libs/sfsi_install_uninstall.php:574
+#: views/sfsi_pop_content.php:35
+msgid "click here"
+msgstr "buraya tıkla"
+
+#: libs/sfsi_widget.php:105
+msgid "Please go to the plugin page to set your preferences:"
+msgstr "Lütfen eklenti sayfanıza gidin ve tercihlerinizi ayarlayın:"
+
+#: libs/sfsi_install_uninstall.php:585 libs/sfsi_widget.php:106
+#: ultimate_social_media_icons.php:580 views/sfsi_option_view1.php:265
+#: views/sfsi_option_view8.php:127 views/sfsi_option_view9.php:134
+#: views/sfsi_options_view.php:75
+msgid "Click here"
+msgstr "Buraya Tıklayınız"
+
+#: libs/sfsi_install_uninstall.php:585
+msgid "Thank you for installing the Ultimate Social Media PLUS plugin. Please go to the plugin's settings page to configure it: "
+msgstr "Nihai Sosyal Medya PLUS eklentisini yüklediğiniz için teşekkür ederiz. Lütfen eklenti ayarları sayfasına giderek yapılandırınız: "
+
+#: views/sfsi_pop_content.php:382
+msgid "Click on << Insert into post >>"
+msgstr "<<Insert into post>>'ye tıklayınız"
+
+#: views/sfsi_pop_content.php:70
+msgid "Click on << Insert into post >> "
+msgstr "<< Insert into post >> 'a tıklayın"
+
+#: views/sfsi_pop_content.php:64 views/sfsi_pop_content.php:376
+msgid "Click on << Upload >> below"
+msgstr "Aşağıda bulunan << Upload >> 'a tıklayın"
+
+#: views/sfsi_pop_content.php:321
+msgid "Ok, keep it active for the time being, I want to see how it works"
+msgstr "Peki, şimdilik aktive et, nasıl çalıştığını görmek istiyorum"
+
+#: views/sfsi_pop_content.php:314
+msgid "Note: Also if you already offer a newsletter it makes sense to offer this option too, because it will get you more readers as explained"
+msgstr "Not: Eğer zaten haber bülteni öneriyorsanız, bu seçeneği de önermek mantıklı olcaktır, çünkü açıklanmış olduğu gibi size daha fazla okuyucu kazandıracaktır"
+
+#: views/sfsi_option_view9.php:139
+msgid "Shortcode:"
+msgstr "Kısakod:"
+
+#: views/sfsi_option_view9.php:130
+msgid "Widget:"
+msgstr "Bileşen:"
+
+#: views/sfsi_option_view8.php:318
+msgid "Rectangle icons spell out the «call to action» which increases chances that visitors do it."
+msgstr "Dikdörtgen ikonlar «harekete geç» ektisi yaratırlar bu da ziyaretçilerin harekete geçme olasılığını arttırır."
+
+#: views/sfsi_option_view8.php:207
+msgid "Top:"
+msgstr "Üst:"
+
+#: views/sfsi_option_view5.php:577
+msgid "Language for Like & Share buttons (Facebook, Twitter, Google+):"
+msgstr "Beğen&Paylaş butonlarının (Facebook, Twitter, Google+) dili:"
+
+#: views/sfsi_option_view5.php:481
+msgid "Leave empty if you dont want to define this"
+msgstr "Eğer bunu tanımlamak istemiyorsanız lütfen boş bırakınız"
+
+#: views/sfsi_option_view4.php:470
+msgid "Please make sure you have entered the URL for Visit my Google+ page at: like https://plus.google.com/u/0/b/[pageid] in Google+ settings under question number 2."
+msgstr "Lütfen Google+ sayfanızın ziyaret edilmesi için Google+ ayarlarının altındaki 2 numaralı soruya gereken URL'yi ( örneğin: https://plus.google.com/u/0/b/[pageid] ) girdiğinizden emin olunuz."
+
+#: views/sfsi_option_view4.php:404
+msgid "Go to"
+msgstr "Buraya gidiniz:"
+
+#: views/sfsi_option_view4.php:396
+msgid "Please make sure you have entered the Username for \"Follow me on Twitter:\" in twitter settings under question number 2."
+msgstr "Lütfen soru 2'deki twitter seçeneklerinde \"Twitter'da takip et:\" kısmı için kullanıcı adınızı girin. "
+
+#: views/sfsi_option_view4.php:333
+msgid "You'll find it at the bottom of the << About >> -tab on your facebook page"
+msgstr "Facebook sayfanızın   << Hakkında >> sekmesinin alt kısmında bulabilirsiniz"
+
+#: views/sfsi_option_view4.php:328
+msgid "page ID:"
+msgstr "sayfa numarası:"
+
+#: views/sfsi_option_view4.php:324
+msgid "Retrieve the number of likes of your facebook page"
+msgstr "Facebook sayfanızın beğeni sayısını elde edin"
+
+#: views/sfsi_option_view4.php:320
+msgid "Retrieve the number of likes of your blog"
+msgstr "Blog'unuzun beğeni sayısını elde edin"
+
+#: views/sfsi_option_view3.php:42
+msgid "A smart automatic animation can make your visitors aware of your icons in an unintrusive manner"
+msgstr "Rahatsız vermeyecek şekilde hazırlanmış akıllı otomatik animasyon ile ziyaretçilerinizi ikonlarınızdan haberdar edin"
+
+#: views/sfsi_option_view2.php:482
+msgid "You find your ID in the link of your profile page, e.g. https://www.linkedin.com/profile/view?id=<b>8539887</b>&trk=nav_responsive_tab_profile_pic"
+msgstr "Kullanıcı adınızı profil sayfanızın bağlantısından bulabilirsiniz, örneğin https://www.linkedin.com/profile/view?id=<b>8539887</b>&trk=nav_responsive_tab_profile_pic"
+
+#: views/sfsi_option_view1.php:62 views/sfsi_option_view1.php:90
+msgid "Mandatory"
+msgstr "Zorunlu"
+
+#: views/sfsi_option_view1.php:47
+msgid "In general, the more icons you offer the better because people have different preferences, and more options means that there’s something for everybody, increasing the chances that you get followed and/or shared."
+msgstr "Genelde, ne kadar çok ikon önerirseniz o kadar iyi olur çünkü insanların farklı tercihleri vardır ve fazla seçenek olması herkes için bir seçenek olduğu anlamına gelir, ve bu takip edilmenizin ve/ya da paylaşılmanızın olasılığını arttırır."
+
+#: views/sfsi_aboutus.php:4
+msgid "or write to us at"
+msgstr "ya da bizimle aşağıdaki adresten iletişime geçin"
+
+#: ultimate_social_media_icons.php:583
+msgid "Error"
+msgstr "Hata"
+
+#: ultimate_social_media_icons.php:77
+msgid "Kindly go to setting page and check the option \"Place them manually\""
+msgstr "Ayarlar sayfasına gidin ve \"Elle yerleştir\" seçeneğini seçin"
+
+#: libs/sfsi_install_uninstall.php:615
+msgid "No, not good enough"
+msgstr "Hayır, yeterli değil"
+
+#: libs/sfsi_install_uninstall.php:614
+msgid "I already did"
+msgstr "Zaten yaptım"
+
+#: libs/sfsi_install_uninstall.php:613
+msgid "Ok, you deserved it"
+msgstr "Peki, bunu hakettin"
+
+#: libs/sfsi_install_uninstall.php:611
+msgid "We noticed you've been using the Ultimate Social Media PLUS Plugin for more than 30 days. If you're happy with it, could you please do us a BIG favor and give it a 5-star rating on Wordpress?"
+msgstr "Nihai Sosyal Medya PLUS eklentisini 30 günden fazla süredir kullandığınızı tespit ettik. Eğer eklentiden memnunsanız bize Wordpress değerlendirmemizde 5-yıldız vererek büyük bir iyilik yapar mısınız?"
+
+#: libs/sfsi_install_uninstall.php:594
+msgid "You`re using an old Wordpress version, which may cause several of your plugins to not work correctly. Please upgrade"
+msgstr "Wordpress'in eski sürümünü kullanıyorsunuz, bu bazı eklentilerinizin düzgün çalışmamasına neden olabilir. Lütfen güncelleyiniz"
+
+#: libs/sfsi_install_uninstall.php:438
+msgid "Error: It seems that CURL is disabled on your server. Please contact your server administrator to install / enable CURL."
+msgstr "Hata: Sunucunuzda CURL geçersiz kılınmıştır. Lütfen sunucu yöneticinizle CURL'u yüklemek/etkınleştirmek üzere iletişime geçiniz. "
+
+#: libs/sfsi_Init_JqueryCss.php:49
+msgid "Saved"
+msgstr "Kaydedildi"
+
+#: libs/sfsi_Init_JqueryCss.php:48
+msgid "Saving"
+msgstr "Kaydediyor"
+
+#: views/sfsi_option_view5.php:556
+msgid "Google+ «Visit»-icon:"
+msgstr "Google+ «Ziyaret et»-ikonu: "
+
+#: views/sfsi_option_view5.php:535
+msgid "Twitter «Visit»-icon:"
+msgstr "Twitter «Ziyaret et»-ikonu: "
+
+#: views/sfsi_option_view5.php:514
+msgid "Facebook «Visit»-icon:"
+msgstr "Facebook «Ziyaret et»-ikonu:"
+
+#: views/sfsi_option_view5.php:493
+msgid "Follow-button:"
+msgstr "Takip-butonu:"
+
+#: views/sfsi_option_view5.php:488
+msgid "Language & Button-text"
+msgstr "Dil & buton-metni"
+
+#: views/sfsi_option_view4.php:593
+msgid "Enter Youtube Channel id"
+msgstr "Youtube kanalınızın adını giriniz"
+
+#: ultimate_social_media_icons.php:578
+msgid "There seems to be an error on your website which prevents the plugin to work properly. Please check the FAQ:"
+msgstr "İnternet sitenizde eklentilerin düzgün çalışmasını engelleyen bir hata var gibi görünüyor. Lütfen SSS'a bakınız:"
+
+#: views/sfsi_option_view9.php:98
+msgid "In addition to the email- or follow-icon you can also show a subscription form which maximizes chances that people subscribe to your site. To get access to the emails who subscribe, please"
+msgstr "E-posta- ve takip-ikonuna ek olarak ziyaretçilerin abone olma olasılığını arttıran abonelik formu da ekleyebilirsiniz. Abonelerinizin e-posta adreslerine ulaşmak için lütfen"
+
+#. Author of the plugin/theme
+msgid "UltimatelySocial"
+msgstr "UltimatelySocial"
+
+#. Description of the plugin/theme
+msgid "The best social media plugin on the market. And 100% FREE. Allows you to add social media & share icons to your blog (esp. Facebook, Twitter, Email, RSS, Pinterest, Instagram, Google+, LinkedIn, Share-button). It offers a wide range of design options and other features."
+msgstr "Piyasadaki en iyi sosyal medya eklentisi. Ve %100 ÜCRETSİZ. Bloğunuza sosyal medya & paylaşma ikonları ekleyebilirsiniz (özellikle Facebook, Twitter, Email, RSS, Pinterest, Instagram, Google+, LinkedIn, Share-button). Size oldukça geniş dizayn seçenekleri sunar."
+
+#. #-#-#-#-#  tmp-ultimate-social-media-plus.pot (Ultimate Social Media PLUS
+#. 2.5.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-ultimate-social-media-plus.pot (Ultimate Social Media PLUS
+#. 2.5.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://ultimatelysocial.com"
+msgstr "http://ultimatelysocial.com"
+
+#: views/sfsi_pop_content.php:613
+msgid "I'm done!"
+msgstr "Bitirdim!"
+
+#: views/sfsi_pop_content.php:373
+msgid "Here you can upload custom icons which perform the same actions as the standard icons."
+msgstr "Buraya standart simgelerle aynı işlevi gören kişiselleştirilmiş simgeleri yükleyebilirsiniz."
+
+#: views/sfsi_pop_content.php:370
+msgid "Upload custom icons"
+msgstr "Kişiselleştirilmiş simgeleri yükle"
+
+#: views/sfsi_pop_content.php:358
+msgid "Don’t review and exit"
+msgstr "Değerlendirme ve çık"
+
+#: views/sfsi_pop_content.php:354
+msgid "Ok, Review it"
+msgstr "Peki, değerlendir"
+
+#: views/sfsi_pop_content.php:350
+msgid "You’re a toughie. Last try: As a minimum, could you please review this plugin (with 5 stars)? It only takes a minute. Thank you!"
+msgstr "Çok kararlısın. Son deneme: En azından bu eklentiyi değerlendirir misin (5 yıldızla)? Sadece bir dakika sürecek. Teşekkürler!"
+
+#: views/sfsi_pop_content.php:342
+msgid "Don’t activate link"
+msgstr "Bağlantıyı etkinleştirme"
+
+#: views/sfsi_pop_content.php:338
+msgid "Ok, activate link"
+msgstr "Peki, bağlantıyı etkinleştir"
+
+#: views/sfsi_pop_content.php:333
+msgid "Ok, fine, however for using this plugin for FREE, please support us by activating a link back to our site:"
+msgstr "Peki, tamam, bu eklentiyi ÜCRETSİZ kullanmak için, lütfen bizim sitemize bir bağlantı etkinleştirerek bizi destekleyin"
+
+#: views/sfsi_pop_content.php:325
+msgid "Deactivate it"
+msgstr "Etkinsizleştir"
+
+#: views/sfsi_pop_content.php:145 views/sfsi_pop_content.php:300
+msgid "Move over the “+ icon” to see the sharing options"
+msgstr "Paylaşma seçeneklerini \"+ ikon\"'un üstüne gelerek görün"
+
+#: views/sfsi_pop_content.php:278
+msgid "Move over the LinkedIn-icon…"
+msgstr "LinkedIn-ikonuna git..."
+
+#: views/sfsi_pop_content.php:250
+msgid "Move over the Pinterest-icon…"
+msgstr "Pinterest-ikonuna git..."
+
+#: views/sfsi_pop_content.php:227
+msgid "Move over the YouTube-icon…"
+msgstr "YouTube-ikonuna git..."
+
+#: views/sfsi_pop_content.php:201
+msgid "Move over the Google+ icon…"
+msgstr "Google+ ikonuna git..."
+
+#: views/sfsi_pop_content.php:174
+msgid "Move over the Twitter-icon…"
+msgstr "Twitter-ikonuna git..."
+
+#: views/sfsi_pop_content.php:119
+msgid "Move over the Facebook-icon…"
+msgstr "Facebook-ikonuna git..."
+
+#: views/sfsi_pop_content.php:67 views/sfsi_pop_content.php:379
+msgid "Upload the icon into the media gallery"
+msgstr "İkonu medya galerinize ekleyin"
+
+#: views/sfsi_pop_content.php:60
+msgid "Steps:"
+msgstr "Adımlar:"
+
+#: views/sfsi_options_view.php:170
+msgid "Need top-notch Wordpress development work at a competitive price?"
+msgstr "Uygun fiyatlı bir en iyi kalite gelistirme çalışmasına ihtiyacınız var mı?"
+
+#: views/sfsi_options_view.php:159
+msgid "This plugin is 100% free. Please do us a BIG favor and give us a 5 star rating"
+msgstr "Bu eklenti %100 ücretsizdir. Lütfen bize değerlendirme de 5 yıldız vererek BÜYÜK bir iyilik yapın"
+
+#: views/sfsi_options_view.php:143
+msgid "Do you want to show a subscription form (increases sign ups)?"
+msgstr "Abonelik formu gösterilsin ister misiniz (kayıt sayısını arttırır)?"
+
+#: views/sfsi_options_view.php:136
+msgid "Do you want to display a pop-up, asking people to subscribe?"
+msgstr "İnsanlara abonelik seçeneği sunan pop-up ekranı göstermek ister misiniz?"
+
+#: views/sfsi_options_view.php:124
+msgid "Any other wishes for your main icons?"
+msgstr "Ana simgeleriniz için başka bir isteğiniz var mı?"
+
+#: views/sfsi_options_view.php:117
+msgid "Do you want to display \"counts\" next to your main icons?"
+msgstr "Ana simgelerinizin yanında \"sayaç\" görünmesini istiyor musunuz?"
+
+#: views/sfsi_options_view.php:110
+msgid "What design and animation do you want to give your icons?"
+msgstr "Simgelerinize nasıl bir tasarım ve animasyon vermek istiyorsunuz?"
+
+#: views/sfsi_options_view.php:105
+msgid "Optional"
+msgstr "Opsiyonel"
+
+#: views/sfsi_options_view.php:99
+msgid "Where shall they be displayed?"
+msgstr "Nerede görüntülenmelerini istiyorsunuz?"
+
+#: views/sfsi_options_view.php:92
+msgid "What do you want the icons to do?"
+msgstr "Simgelerin ne yapmasını istiyorsunuz?"
+
+#: views/sfsi_options_view.php:84
+msgid "Which icons do you want to show on your site?"
+msgstr "Hangi simgelerin sitenizde görünmesini istiyorsunuz?"
+
+#: views/sfsi_options_view.php:70
+msgid "Simply answer the questions below (at least the first 3) by clicking on them - that`s it!"
+msgstr "Sadece aşağıdaki soruları (en azından ilk 3 soruyu)  üstlerine tıklayarak cevaplamanız gerekmektedir - hepsi bu kadar!"
+
+#: views/sfsi_options_view.php:67
+msgid "This plugin is 100% FREE and will fulfill all your subscription/sharing/liking needs!"
+msgstr "Bu eklenti %100 ÜCRETSİZ olup, sizin tüm abonelik/paylaşma/beğenme ihtiyaçlarınızı karşılayacaktır!"
+
+#: views/sfsi_options_view.php:64
+msgid "Welcome to the Ultimate Social Media Icons PLUS plugin!"
+msgstr "Nihai Sosyal Medya PLUS eklentisine hoşgeldiniz!"
+
+#: views/sfsi_options_view.php:54
+msgid "If question 8 gets displayed in a funny way then please reload the page by pressing Control+F5(PC) or Command+R(Mac)"
+msgstr "Eğer soru 8 garip görüntüleniyorsa lütfen sayfayı Control+F5(PC) ya da Command+R(Mac) kısayollarıyla yenileyiniz"
+
+#: views/sfsi_options_view.php:52
+msgid "New: You can now also show a subscription form on your site, increasing sign-ups! (Question 8)"
+msgstr "Yeni: Artık sitenize abonelik formu da ekleyebilirsiniz, kaydolmayı arttıracaktır! (Soru 8)"
+
+#: views/sfsi_options_view.php:10
+msgid "We found errors in your javascript which may cause the plugin to not work properly. Please fix the error:"
+msgstr "Javascriptinizin içinde bu eklentinin çalışmasını olumsuz etkileyebilecek hatalar bulduk. Lütfen hataları düzeltiniz:"
+
+#: views/sfsi_option_view9.php:687
+msgid "Right Align"
+msgstr "Sağa dayalı"
+
+#: views/sfsi_option_view9.php:681
+msgid "Left Align"
+msgstr "Sola dayalı"
+
+#: views/sfsi_option_view9.php:550
+msgid "Button color:"
+msgstr "Buton rengi:"
+
+#: views/sfsi_option_view9.php:474
+msgid "Subscribe button"
+msgstr "Abonelik butonu"
+
+#: views/sfsi_option_view9.php:397
+msgid "Entry field"
+msgstr "Girdi alanı"
+
+#: views/sfsi_option_view9.php:384 views/sfsi_option_view9.php:449
+#: views/sfsi_option_view9.php:541
+msgid "Alignment:"
+msgstr "Hizalama/yerleşim:"
+
+#: views/sfsi_option_view9.php:370 views/sfsi_option_view9.php:456
+#: views/sfsi_option_view9.php:527
+msgid "Font size"
+msgstr "Font büyüklüğü"
+
+#: views/sfsi_option_view9.php:357 views/sfsi_option_view9.php:514
+msgid "Font color"
+msgstr "Yazıtipi rengi"
+
+#: views/sfsi_option_view9.php:348
+msgid " Font style:"
+msgstr "Yazıtipi:"
+
+#: views/sfsi_option_view9.php:317
+msgid "Text above entry field"
+msgstr "Girdi alanının üstündeki metin"
+
+#: views/sfsi_option_view9.php:296
+msgid "Background color:"
+msgstr "Arkaplan rengi:"
+
+#: views/sfsi_option_view9.php:281
+msgid "Color"
+msgstr "Renk"
+
+#: views/sfsi_option_view9.php:270
+msgid "Thickness"
+msgstr "Kalınlık"
+
+#: views/sfsi_option_view9.php:247
+msgid "Border?"
+msgstr "Kenarlık?"
+
+#: views/sfsi_option_view9.php:235
+msgid "Width"
+msgstr "Genişlik"
+
+#: views/sfsi_option_view9.php:230 views/sfsi_option_view9.php:240
+#: views/sfsi_option_view9.php:276 views/sfsi_option_view9.php:376
+#: views/sfsi_option_view9.php:462 views/sfsi_option_view9.php:533
+msgid "pixels"
+msgstr "piksel"
+
+#: views/sfsi_option_view9.php:224
+msgid "Height"
+msgstr "Ağırlık"
+
+#: views/sfsi_option_view9.php:201
+msgid "Adjust size to space on website?"
+msgstr "Boyut internet sitesindeki yere göre belirlensin mi?"
+
+#: views/sfsi_option_view9.php:189
+msgid "Overall size & border"
+msgstr "Genel boyut & kenarlık"
+
+#: views/sfsi_option_view9.php:186
+msgid "Define text & design (optional)"
+msgstr "Metin & tasarımı tanımla (opsiyonel)"
+
+#: views/sfsi_option_view9.php:164 views/sfsi_option_view9.php:699
+msgid "Get new posts by email:"
+msgstr "Yeni gönderileri e-posta ile al:"
+
+#: views/sfsi_option_view9.php:150
+msgid "Copy & paste HTML code:"
+msgstr "HTML kodunu kopyala & yapıştır:"
+
+#: views/sfsi_option_view9.php:146
+msgid "to place it into your codes"
+msgstr "kodlarınızın içine yerleştirebilmek için"
+
+#: views/sfsi_option_view9.php:142
+msgid "Use the shortcode"
+msgstr "Kısakod kullanın"
+
+#: views/sfsi_option_view9.php:124
+msgid "You can place the form by different methods:"
+msgstr "Formu farklı yöntemlerle yerleştirebilirsiniz:"
+
+#: views/sfsi_option_view9.php:121
+msgid "Place it on your site"
+msgstr "Sitenize yerleştirin"
+
+#: views/sfsi_option_view5.php:499 views/sfsi_option_view5.php:520
+#: views/sfsi_option_view5.php:541 views/sfsi_option_view5.php:562
+#: views/sfsi_option_view9.php:111
+msgid "Preview:"
+msgstr "Önizleme:"
+
+#: views/sfsi_option_view8.php:499
+msgid "Center"
+msgstr "Orta"
+
+#: views/sfsi_option_view8.php:453
+msgid "On Homepage"
+msgstr "Anasayfada"
+
+#: views/sfsi_option_view8.php:436 views/sfsi_option_view8.php:465
+msgid "After posts"
+msgstr "Gönderilerden sonra"
+
+#: views/sfsi_option_view8.php:430 views/sfsi_option_view8.php:459
+msgid "Before posts"
+msgstr "Gönderilerden Önce"
+
+#: views/sfsi_option_view8.php:424
+msgid "On Post Pages"
+msgstr "Gönderi sayfalarında"
+
+#: views/sfsi_option_view8.php:421
+msgid "Display them:"
+msgstr "Göster:"
+
+#: views/sfsi_option_view8.php:371
+msgid "may impact loading speed"
+msgstr "yüklenme hızını etkileyebilir"
+
+#: views/sfsi_option_view8.php:321
+msgid "Select the icons you want to show:"
+msgstr "Gösterilecek simgeleri seçiniz:"
+
+#: views/sfsi_option_view8.php:310
+msgid "Display the icons I selected above"
+msgstr "Yukarıda seçtiğim simgeleri göster"
+
+#: views/sfsi_option_view8.php:304
+msgid "Display rectangle icons"
+msgstr "Dikdörtgen simgeler göster"
+
+#: views/sfsi_option_view8.php:296
+msgid "Here you have two options:"
+msgstr "İki seçeneğiniz var:"
+
+#: views/sfsi_option_view8.php:282
+msgid "Show them before or after posts"
+msgstr "Gönderilerden önce ya da sonra göster"
+
+#: views/sfsi_option_view8.php:253
+msgid "Place them manually"
+msgstr "Elle yerleştir"
+
+#: views/sfsi_option_view8.php:234
+msgid "Right:"
+msgstr "Sağ:"
+
+#: views/sfsi_option_view8.php:225
+msgid "Left:"
+msgstr "Sol:"
+
+#: views/sfsi_option_view8.php:216
+msgid "Bottom:"
+msgstr "Alt:"
+
+#: views/sfsi_option_view8.php:202
+msgid "Margin From:"
+msgstr "Kenar boşluğu:"
+
+#: views/sfsi_option_view8.php:195
+msgid "Bottom right"
+msgstr "Alt sağ"
+
+#: views/sfsi_option_view8.php:188
+msgid "Bottom left"
+msgstr "Sol alt"
+
+#: views/sfsi_option_view8.php:181
+msgid "Center right"
+msgstr "Sağ orta"
+
+#: views/sfsi_option_view8.php:174
+msgid "Center left"
+msgstr "Sol orta"
+
+#: views/sfsi_option_view8.php:167
+msgid "Top right"
+msgstr "Sağ üst"
+
+#: views/sfsi_option_view8.php:160
+msgid "Top left"
+msgstr "Sol üst"
+
+#: views/sfsi_option_view8.php:142
+msgid "Float them on the page"
+msgstr "Sayfanın üstünde süzülsün"
+
+#: views/sfsi_option_view8.php:112
+msgid "Show them via a widget"
+msgstr "Bileşen aracılığı ile göster"
+
+#: views/sfsi_option_view7.php:364
+msgid "Every time user scrolls to the end of the page"
+msgstr "Kullanıcının sayfanın sonuna ulaştığı her seferde"
+
+#: views/sfsi_option_view7.php:358
+msgid "seconds after the user arrived on the site"
+msgstr "kullanıcı sayfaya ulaştıktan birkaç saniye sonra"
+
+#: views/sfsi_option_view7.php:356
+msgid "Once"
+msgstr "Bir kez"
+
+#: views/sfsi_option_view7.php:351
+msgid "When shall the pop-up be shown?"
+msgstr "Pop-up ne zaman görünsün?"
+
+#: views/sfsi_option_view7.php:345
+msgid "Please hold CTRL key to select multiple pages"
+msgstr "Birden çok sayfa seçebilmek için lütfen CTRL tuşunu basılı tutunuz"
+
+#: views/sfsi_option_view7.php:302
+msgid "On selected pages only"
+msgstr "Sadece seçilmiş sayfalarda"
+
+#: views/sfsi_option_view7.php:296
+msgid "On blog posts only"
+msgstr "Sadece blog gönderilerinde"
+
+#: views/sfsi_option_view7.php:290
+msgid "On every page"
+msgstr "Her sayfada"
+
+#: views/sfsi_option_view7.php:284
+msgid "Nowhere"
+msgstr "Hiçbir yerde"
+
+#: views/sfsi_option_view7.php:279
+msgid "Where shall the pop-up be shown?"
+msgstr "Pop-up nerede görünsün?"
+
+#: views/sfsi_option_view7.php:269
+msgid "Off"
+msgstr "Kapalı"
+
+#: views/sfsi_option_view7.php:263
+msgid "On"
+msgstr "Açık"
+
+#: views/sfsi_option_view7.php:241
+msgid "Border Color:"
+msgstr "Kenarlık rengi:"
+
+#: views/sfsi_option_view7.php:231
+msgid "Icon Box Layout"
+msgstr "Simge kutusu yerleşimi"
+
+#: views/sfsi_option_view7.php:224
+msgid "Font size:"
+msgstr "Yazıtipi boyutu:"
+
+#: views/sfsi_option_view7.php:219
+msgid "Font color:"
+msgstr "Yazıtipi rengi:"
+
+#: views/sfsi_option_view7.php:200 views/sfsi_option_view9.php:428
+#: views/sfsi_option_view9.php:505
+msgid "Font style:"
+msgstr "Yazıtipi:"
+
+#: views/sfsi_option_view7.php:154 views/sfsi_option_view9.php:342
+#: views/sfsi_option_view9.php:422 views/sfsi_option_view9.php:499
+msgid "Font:"
+msgstr "Yazı sitili:"
+
+#: views/sfsi_option_view7.php:150 views/sfsi_option_view9.php:329
+#: views/sfsi_option_view9.php:409 views/sfsi_option_view9.php:486
+msgid "Text:"
+msgstr "Metin:"
+
+#: views/sfsi_option_view7.php:147
+msgid "Text Options"
+msgstr "Metin seçenekleri"
+
+#: views/sfsi_option_view7.php:54
+msgid "Enjoy this site? Please follow and like us!"
+msgstr "Bu siteyi beğendiniz mi? Lütfen bizi takip edin ve beğenin!"
+
+#: views/sfsi_option_view7.php:48
+msgid "You can increase chances that people share or follow you by displaying a pop-up asking them to. You can define the design and layout below:"
+msgstr "İnsanların sizi paylaşma ya da takip etme olasılığını pop-up'la onlara sorarak arttırabilirsiniz. Dizaynını ve yerleşimi aşağıda belirleyebilirsiniz:"
+
+#: views/sfsi_option_view6.php:101 views/sfsi_option_view8.php:390
+msgid "NO"
+msgstr "HAYIR"
+
+#: views/sfsi_option_view6.php:99 views/sfsi_option_view8.php:388
+msgid "YES"
+msgstr "EVET"
+
+#: views/sfsi_option_view6.php:97 views/sfsi_option_view8.php:385
+msgid "Do you want to display the counts?"
+msgstr "Sayacın görüntülenmesini istiyor musunuz?"
+
+#: views/sfsi_option_view6.php:87 views/sfsi_option_view8.php:489
+msgid "Alignment of share icons:"
+msgstr "Paylaş ikonunun hizası:"
+
+#: views/sfsi_option_view6.php:82 views/sfsi_option_view8.php:484
+msgid "Text to appear before the sharing icons:"
+msgstr "Paylaşma ikonundan önce gösterilecek metin:"
+
+#: views/sfsi_option_view6.php:78
+msgid "Options:"
+msgstr "Seçenekler:"
+
+#: views/sfsi_option_view6.php:58
+msgid "So: do you want to display those at the end of every post?"
+msgstr "Sonuç olarak bunların her gönderinin sonunda gösterilmesini istiyor musunuz?"
+
+#: views/sfsi_option_view6.php:53
+msgid "Share-button covers all other platforms for sharing"
+msgstr "Paylaş-butonu paylaşım yapabileceğiniz tüm diğer platformları kapsar"
+
+#: views/sfsi_option_view6.php:50
+msgid "Google+ is also important due to SEO reasons, so important to have as well"
+msgstr "SEO için Google+ da önemlidir"
+
+#: views/sfsi_option_view6.php:47
+msgid "Facebook is No.1 in liking, so it’s a must have"
+msgstr "Facebook beğenmede 1 numaradır, bu sebeple elzemdir"
+
+#: views/sfsi_option_view6.php:43
+msgid "Those are usually all you need:"
+msgstr "Tüm ihtiyacınızdır genelde bunlardır:"
+
+#: views/sfsi_option_view6.php:27
+msgid "The selections you made so far were to display the subscriptions/ social media icons for your site in general (in a widget on the sidebar). You can also display icons at the end of every post, encouraging users to subscribe/like/share after they’ve read it. The following buttons will be added:"
+msgstr "Şu ana dek yaptığınız seçimler sitenizin genel abonelik/sosyal medya ikonları içindir (kenar çubuğu eklentisi). Aynı zamanda her gönderinin altında da ikon ekleyebilirsiniz, okuduktan sonra kullanıcıların abone olmasını/beğenmesini/paylaşmasını teşvik eder. Aşağıdaki butonlar eklenecektir:"
+
+#: views/sfsi_option_view5.php:851
+msgid "If you’ve given your icon only one function (i.e. no pop-up where user can perform different actions) then you can define here what text will be displayed if a user moves his mouse over the icon:"
+msgstr "Eğer bir ikona sadece bir işlev verirseniz, kullanıcı farenin imlecini üstüne getirince hangi metnin görüneceğini belirleyebilirsiniz:"
+
+#: views/sfsi_option_view5.php:848
+msgid "Mouseover text"
+msgstr "Metnin üstüne gelince"
+
+#: views/sfsi_option_view5.php:824
+msgid "Disable auto-scaling feature for mobile devices (\"viewport\" meta tag)"
+msgstr "Mobil cihazlarda otomatik-boyutlandırma seçeneğini devre dışı bırak (\"görünüm penceresi\" meta etiketi)"
+
+#: views/sfsi_option_view5.php:802
+msgid "Disable float icons on mobile devices"
+msgstr "Mobil cihazlarda süzülen ikonları devre dışı bırak"
+
+#: views/sfsi_option_view5.php:779
+msgid "If you decided to show your icons via a widget, you can add the effect that when the user scrolls down, the icons will stick at the  top of the screen so that they are still displayed even if the user scrolled all the way down. Do you want to do that?"
+msgstr "Bir bileşenle ikonlarınızı göstermeye karar verirseniz, kullanıcı sayfada aşağıya inerken efekt ekleyebilirsiniz, ikon ekranın üst kısmında kullanıcı aşağıya inerken bile yerinde sabit kalır. Bunu yapmak ister misiniz?"
+
+#: views/sfsi_option_view5.php:776
+msgid "Sticking & Disable on mobile"
+msgstr "Sabitleme & Mobil cihazlarda devre dışı bırakma "
+
+#: views/sfsi_option_view5.php:753
+msgid "If user clicks on your icons, do you want to open the page in a new window?"
+msgstr "Eğer kullanıcılarınız ikonlara tıklarsa, bunların yeni bir pencerede açılmasını ister misiniz?"
+
+#: views/sfsi_option_view5.php:748
+msgid "New window"
+msgstr "Yeni pencere"
+
+#: views/sfsi_option_view5.php:477
+msgid "Icons per row:"
+msgstr "Bir sıradaki ikon sayısı:"
+
+#: views/sfsi_option_view5.php:472 views/sfsi_option_view6.php:90
+#: views/sfsi_option_view8.php:493
+msgid "Left"
+msgstr "Solda"
+
+#: views/sfsi_option_view5.php:469 views/sfsi_option_view6.php:92
+#: views/sfsi_option_view8.php:496
+msgid "Right"
+msgstr "Sağda"
+
+#: views/sfsi_option_view5.php:466 views/sfsi_option_view9.php:684
+msgid "Centered"
+msgstr "Ortalanmış"
+
+#: views/sfsi_option_view5.php:461
+msgid "Alignment of icons:"
+msgstr "Simgelerin hizalaması:"
+
+#: views/sfsi_option_view5.php:457
+msgid "Alignments"
+msgstr "Hizalama"
+
+#: views/sfsi_option_view5.php:450 views/sfsi_option_view8.php:211
+#: views/sfsi_option_view8.php:220 views/sfsi_option_view8.php:229
+#: views/sfsi_option_view8.php:238 views/sfsi_option_view8.php:410
+msgid "Pixels"
+msgstr "Piksel"
+
+#: views/sfsi_option_view5.php:446 views/sfsi_option_view8.php:408
+msgid "Spacing between icons:"
+msgstr "Simgeler arası boşluk:"
+
+#: views/sfsi_option_view5.php:439 views/sfsi_option_view8.php:404
+msgid "Size:"
+msgstr "Boyutu:"
+
+#: views/sfsi_option_view5.php:341
+msgid "Order of your icons"
+msgstr "İkonların düzeni"
+
+#: views/sfsi_option_view4.php:699
+msgid "Retrieve the number of shares"
+msgstr "Paylaşılma sayısına ulaş"
+
+#: views/sfsi_option_view4.php:664
+msgid "Enter Instagram User name"
+msgstr "Instagram kullanıcı adını girin"
+
+#: views/sfsi_option_view4.php:660
+msgid "Retrieve the number of Instagram followers"
+msgstr "Instagram takipöileri sayısına ulaş"
+
+#: views/sfsi_option_view4.php:627
+msgid "Retrieve the number of Pins"
+msgstr "Pin sayılarına ulaş"
+
+#: views/sfsi_option_view4.php:586
+msgid "Enter Youtube User name"
+msgstr "Youtube kullanıcı adınızı girin"
+
+#: views/sfsi_option_view4.php:581
+msgid "Retrieve the number of Subscribers"
+msgstr "Abonelerin sayısını alın"
+
+#: views/sfsi_option_view4.php:462
+msgid "Enter Google API Key"
+msgstr "Google API anahtarını girin"
+
+#: views/sfsi_option_view4.php:456
+msgid "Retrieve the number of google+ followers"
+msgstr "Google+ takipçilerinizin sayısını alın"
+
+#: views/sfsi_option_view4.php:452
+msgid "Retrieve the number of Google +1 (on your blog)"
+msgstr "(Bloğuzun) Google +1 sayısını alın"
+
+#: views/sfsi_option_view4.php:419
+msgid "Then click on \"Test OAuth\" at the top right and you will see the 4 token key"
+msgstr "Sağ üstte bulunan \"Test OAuth\" seçeneğine tıklayın ve 4 dizgilik anahtarı görün"
+
+#: views/sfsi_option_view4.php:416
+msgid "Go to \"Keys and Access Tokens\" tab and click on \"Generate Token\" in the \"Token actions\" section at the bottom"
+msgstr "\"Anahtar ve erişim dizgesi\" sekmesine gidin ve aşağıdaki bulunan \"Dizge seçenekleri\" bölümünden \"Dizge oluştur\" seçeneğini seçin"
+
+#: views/sfsi_option_view4.php:413
+msgid "Enter a random Name, Description and Website URL (including the \"http://\", e.g. http://dummysitename.com)"
+msgstr "Rastgele bir İsim, Tanım ve İnternet sitesi URLsini \"http://\" kısmını da içerek şekilde giriniz, örneğin http://dummysitename.com"
+
+#: views/sfsi_option_view4.php:410
+msgid "Click on \"Create new app\""
+msgstr "\"Yeni uygulama oluştur\"'a tıklayınız"
+
+#: views/sfsi_option_view4.php:400
+msgid "To get this information:"
+msgstr "Bu bilgiye ulaşmak için:"
+
+#: views/sfsi_option_view4.php:389
+msgid "Enter Access Token Secret"
+msgstr "Erişim dizgisi kodunu girin"
+
+#: views/sfsi_option_view4.php:383
+msgid "Enter Access Token"
+msgstr "Erişim dizgisini girin"
+
+#: views/sfsi_option_view4.php:377
+msgid "Enter Consumer Secret"
+msgstr "Tüketici kodunu giriniz"
+
+#: views/sfsi_option_view4.php:371
+msgid "Enter Consumer Key"
+msgstr "Tüketici anahtarını giriniz"
+
+#: views/sfsi_option_view4.php:365
+msgid "Retrieve the number of Twitter followers"
+msgstr "Twitter takipçilerinin sayısına eriş"
+
+#: views/sfsi_option_view4.php:293 views/sfsi_option_view4.php:338
+#: views/sfsi_option_view4.php:425 views/sfsi_option_view4.php:509
+#: views/sfsi_option_view4.php:554 views/sfsi_option_view4.php:600
+#: views/sfsi_option_view4.php:632 views/sfsi_option_view4.php:671
+#: views/sfsi_option_view4.php:704 views/sfsi_option_view4.php:733
+msgid "Enter the figure manually"
+msgstr "Resmi elle ekle"
+
+#: views/sfsi_option_view4.php:289
+msgid "Retrieve the number of subscribers automatically"
+msgstr "Abonelerin sayısına otomatik olarak eriş"
+
+#: views/sfsi_option_view4.php:261
+msgid "We cannot track this. So enter the figure here:"
+msgstr "Bunu takip edemiyoruz. Bu yüzden figürü buraya girin:"
+
+#: views/sfsi_option_view4.php:239
+msgid "Please specify which counts should be shown:"
+msgstr "Lütfen hangi sayaçların gösterileceğini belirleyiniz:"
+
+#: views/sfsi_option_view4.php:231 views/sfsi_option_view5.php:765
+#: views/sfsi_option_view5.php:793 views/sfsi_option_view5.php:814
+#: views/sfsi_option_view5.php:836 views/sfsi_option_view6.php:70
+#: views/sfsi_option_view9.php:215 views/sfsi_option_view9.php:261
+msgid "No"
+msgstr "Hayır"
+
+#: views/sfsi_option_view4.php:225 views/sfsi_option_view5.php:759
+#: views/sfsi_option_view5.php:787 views/sfsi_option_view5.php:808
+#: views/sfsi_option_view5.php:830 views/sfsi_option_view6.php:64
+#: views/sfsi_option_view9.php:208 views/sfsi_option_view9.php:254
+msgid "Yes"
+msgstr "Evet"
+
+#: views/sfsi_option_view4.php:218
+msgid "Enough waffling. So do you want to display counts?"
+msgstr "Bu kadar konuşma yeter. Sayacın görüntülenmesini istiyor musunuz?"
+
+#: views/sfsi_option_view4.php:215
+msgid "Of course, if you start at 0, you shoot yourself in the foot with that. So we suggest that you only turn this feature on once you have a good number of followers/likes/shares (min. of 20 – no worries if it’s not too many, it should just not be 0)."
+msgstr "Elbette beğenisi olmayan bir siteye sayaç eklemek mantıklı değildir. Bu yüzden size bu özelliği takipçileriniz/beğenenleriniz/paylaşanlarınız iyi bir sayıya ulaşmadan önce etkinleştirmenizi önermiyoruz (en az 20 - evet bu sayı çok fazla değil ama 0'dan iyidir)."
+
+#: views/sfsi_option_view3.php:371
+msgid "seconds"
+msgstr "saniye"
+
+#: views/sfsi_option_view3.php:367
+msgid "Every"
+msgstr "Her"
+
+#: views/sfsi_option_view3.php:361
+msgid "When site is first loaded"
+msgstr "Site ilk kez yüklendiğinde"
+
+#: views/sfsi_option_view3.php:354
+msgid "Shuffle them automatically"
+msgstr "Otomatik olarak karıştır"
+
+#: views/sfsi_option_view3.php:344
+msgid "Combo"
+msgstr "Karma"
+
+#: views/sfsi_option_view3.php:338
+msgid "Fade In"
+msgstr "Yavaş giriş"
+
+#: views/sfsi_option_view3.php:333
+msgid "Mouse-Over effects"
+msgstr "Fare üzerine geldiğindeki efektler"
+
+#: views/sfsi_option_view3.php:327
+msgid "Animate them (your main icons)"
+msgstr "Animasyon ekle (ana simgelerinize)"
+
+#: views/sfsi_option_view3.php:192
+msgid "Custom Icons"
+msgstr "Özel Simgeler"
+
+#: views/sfsi_option_view3.php:183
+msgid "for dark backgrounds"
+msgstr "koyu arkaplan için"
+
+#: views/sfsi_option_view3.php:182
+msgid "Transparent"
+msgstr "Saydam"
+
+#: views/sfsi_option_view3.php:175
+msgid "Shaded Light"
+msgstr "Gölgeli açık"
+
+#: views/sfsi_option_view3.php:168
+msgid "Shaded Dark"
+msgstr "Gölgeli koyu"
+
+#: views/sfsi_option_view3.php:161
+msgid "Silver"
+msgstr "Gümüş"
+
+#: views/sfsi_option_view3.php:151
+msgid "Black"
+msgstr "Siyah"
+
+#: views/sfsi_option_view3.php:144
+msgid "Glossy"
+msgstr "Parlak"
+
+#: views/sfsi_option_view3.php:137
+msgid "Crystal"
+msgstr "Kristal"
+
+#: views/sfsi_option_view3.php:130
+msgid "Orange"
+msgstr "Portakal"
+
+#: views/sfsi_option_view3.php:119
+msgid "Splash"
+msgstr "Serpilmiş"
+
+#: views/sfsi_option_view3.php:112
+msgid "Chrome Grey"
+msgstr "Krom grisi"
+
+#: views/sfsi_option_view3.php:105
+msgid "Chrome Blue"
+msgstr "Krom mavisi"
+
+#: views/sfsi_option_view3.php:97
+msgid "Cubes"
+msgstr "Küp şeklinde"
+
+#: views/sfsi_option_view3.php:87
+msgid "Cute"
+msgstr "Şirin"
+
+#: views/sfsi_option_view3.php:78
+msgid "Thin"
+msgstr "İnce"
+
+#: views/sfsi_option_view3.php:69
+msgid "Flat"
+msgstr "Düz"
+
+#: views/sfsi_option_view3.php:59
+msgid "Default"
+msgstr "Varsayılan"
+
+#: views/sfsi_option_view3.php:52
+msgid "Theme options"
+msgstr "Tema Seçenekleri"
+
+#: views/sfsi_option_view3.php:35
+msgid "A good & well-fitting design is not only nice to look at, but it increases chances that people will subscribe and/or share your site with friends:"
+msgstr "İyi ve oturmuş bir dizayn sadece güzel görünmez, aynı zamanda insanların sitenize abone olmasının ve/ya da sitenizi arkadaşlarıyla paylamasının olasılığını arttırır:"
+
+#: views/sfsi_option_view2.php:589
+msgid "Link:"
+msgstr "Bağlantı:"
+
+#: views/sfsi_option_view2.php:585
+msgid "Where do you want this icon to link to?"
+msgstr "Bu ikonun nereye bağlanmasını istiyorsunuz?"
+
+#: views/sfsi_option_view2.php:553
+msgid "Please provide the url to your Houzz profile (e.g. http://www.houzz.com/user/your_username)."
+msgstr "Lütfen Houzz profilinizin URLsini verin (örneğin. http://www.houzz.com/user/your_username)."
+
+#: views/sfsi_option_view2.php:537
+msgid "Nothing needs to be done here – your visitors to share your site via «all the other» social media sites."
+msgstr "Burada hiçbir şey yapmanıza gerek yok – ziyaretçilerinizin internet sitenizi «geri kalan» sosyal medya siteleri aracılığıyla paylaşması için."
+
+#: views/sfsi_option_view2.php:524
+msgid "You need to be logged in to Linkedin to be able to use it."
+msgstr "Bunu yapabilmek için LinkedIn hesabınıza giriş yapmış olmanız gerekmektedir."
+
+#: views/sfsi_option_view2.php:520
+msgid "To find your Product or Company ID, you can use their ID lookup tool at"
+msgstr "Ürün ya da Şirket kullanıcı adınızı bulmanıza, onların kullanıcı adı bulma aracını kullanabilirsiniz"
+
+#: views/sfsi_option_view2.php:515
+msgid "Recommend my business or product on Linkedin"
+msgstr "Beni ve ürünlerimi Linkedin'de tavsiye edin"
+
+#: views/sfsi_option_view2.php:508
+msgid "Share my page on LinkedIn"
+msgstr "Sayfamı Linkedin'de paylaş"
+
+#: views/sfsi_option_view2.php:499
+msgid "Follow me on Linkedin:"
+msgstr "Beni Linkedin'de takip edin:"
+
+#: views/sfsi_option_view2.php:490
+msgid "Visit my Linkedin page at:"
+msgstr "Linkedin sayfamı şuradan ziyaret edin:"
+
+#: views/sfsi_option_view2.php:485
+msgid "The LinkedIn icon should allow users to..."
+msgstr "LinkedIn ikonu kullanıcının şunları yapmasına izin verir..."
+
+#: views/sfsi_option_view2.php:476
+msgid "The LinkedIn icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "LinkedIn ikonu birçok işlem yapabilir. Hangilerinin uygulanmasını istiyorsanız aşağıdan seçin. Eğer birden çok işlem seçerseniz, kullanıcılar ne yapmak istediklerini seçebilirler"
+
+#: views/sfsi_option_view2.php:457
+msgid "When clicked on, users will get directed to your Instagram page"
+msgstr "Tıklandığında, kullanıcılar Instagram sayfanıza yönlendirilir"
+
+#: views/sfsi_option_view2.php:442
+msgid "Pin my blog on Pinterest (+1)"
+msgstr "Bloğumu Pinterest'te pinle (+1)"
+
+#: views/sfsi_option_view2.php:434
+msgid "Visit my Pinterest page at:"
+msgstr "Pinterest sayfamı ziyaret et:"
+
+#: views/sfsi_option_view2.php:429
+msgid "The Pinterest icon should allow users to..."
+msgstr "Pinterest ikonu kullanıcının şunları yapmasına izin verir... "
+
+#: views/sfsi_option_view2.php:423
+msgid "The Pinterest icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Pinterest ikonu birçok işlem yapabilir. Hangilerinin uygulanmasını istiyorsanız aşağıdan seçin. Eğer birden çok işlem seçerseniz, kullanıcılar ne yapmak istediklerini seçebilirler "
+
+#: views/sfsi_option_view2.php:408
+msgid "To find your Channel name go to \"My Channel\" in Youtube menu bar on the left and take your channel name from there."
+msgstr "Kanal isminizi bulmak için solda bulunan Youtube menü çubuğundan \"Kanalım\" seçeneğine gidin."
+
+#: views/sfsi_option_view2.php:403
+msgid "Channel Id:"
+msgstr "Kanal adı:"
+
+#: views/sfsi_option_view2.php:397
+msgid "To find your Username go to \"My channel\" in Youtube menu bar on the left & Select the \"About\" tab and take your user name from URL there (e.g. https://www.youtube.com/user/Tommy it is \"Tommy\")."
+msgstr "Youtube menü çubuğunda kullanıcı adınızı bulmak isterseniz soldaki \"Kanalım\" sekmesine tıklayın ve \"Hakkında\" sekmesinden URL'nin içindeki kullanıcı adını seçin (örneğin https://www.youtube.com/user/Tommy bağlantısında ki \"Tommy\")."
+
+#: views/sfsi_option_view2.php:393
+msgid "UserName:"
+msgstr "Kullanıcı adı:"
+
+#: views/sfsi_option_view2.php:387
+msgid "Channel Id"
+msgstr "Kanal adı"
+
+#: views/sfsi_option_view2.php:382
+msgid "User Name"
+msgstr "Kullanıcı adı"
+
+#: views/sfsi_option_view2.php:362
+msgid "(allows people to subscribe to you directly, without leaving your blog)"
+msgstr "(insanların bloğunuzdan ayrılmadan doğrudan aboneniz olmasına izin verir)"
+
+#: views/sfsi_option_view2.php:360
+msgid "Subscribe to me on Youtube"
+msgstr "Youtube abonem ol:"
+
+#: views/sfsi_option_view2.php:354
+msgid "Visit my Youtube page at:"
+msgstr "Youtube sayfamı ziyaret et:"
+
+#: views/sfsi_option_view2.php:350
+msgid "The youtube icon should allow users to..."
+msgstr "Youtube ikonu kullanıcının şunları yapmasına izin verir... "
+
+#: views/sfsi_option_view2.php:344
+msgid "The Youtube icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Youtube ikonu birçok işlem yapabilir. Hangilerinin uygulanmasını istiyorsanız aşağıdan seçin. Eğer birden çok işlem seçerseniz, kullanıcılar ne yapmak istediklerini seçebilirler "
+
+#: views/sfsi_option_view2.php:330
+msgid "Share my blog with friends (on Google+)"
+msgstr "Bloğumu arkadaşlarımla paylaş (Google+)"
+
+#: views/sfsi_option_view2.php:323
+msgid "Like my blog on Google+ (+1)"
+msgstr "Bloğumu Google+'da beğen (+1)"
+
+#: views/sfsi_option_view2.php:314
+msgid "Visit my Google+ page at:"
+msgstr "Google+ sayfamı ziyaret et:"
+
+#: views/sfsi_option_view2.php:308
+msgid "The Google+ icon should allow users to..."
+msgstr "Google+ ikonu kullanıcının şunları yapmasına izin verir... "
+
+#: views/sfsi_option_view2.php:302
+msgid "The Google+ icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Google+ ikonu birçok işlem yapabilir. Hangilerinin uygulanmasını istiyorsanız aşağıdan seçin. Eğer birden çok işlem seçerseniz, kullanıcılar ne yapmak istediklerini seçebilirler "
+
+#: views/sfsi_option_view2.php:289
+msgid "Tweet about my page:"
+msgstr "Sayfamı tweetle:"
+
+#: views/sfsi_option_view2.php:281
+msgid "Follow me on Twitter:"
+msgstr "Twitter'da takip et:"
+
+#: views/sfsi_option_view2.php:272
+msgid "Visit me on Twitter:"
+msgstr "Twitter'da takip et:"
+
+#: views/sfsi_option_view2.php:267
+msgid "The Twitter icon should allow users to..."
+msgstr "Twitter ikonu kullanıcının şunları yapmasına izin verir... "
+
+#: views/sfsi_option_view2.php:260
+msgid "The Twitter icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Twitter ikonu birçok işlem yapabilir. Hangilerinin uygulanmasını istiyorsanız aşağıdan seçin. Eğer birden çok işlem seçerseniz, kullanıcılar ne yapmak istediklerini seçebilirler "
+
+#: views/sfsi_option_view2.php:245
+msgid "Share my blog with friends (on Facebook)"
+msgstr "Bloğumu arkadaşlarımla paylaş (Facebook)"
+
+#: views/sfsi_option_view2.php:237
+msgid "Like my blog on Facebook (+1)"
+msgstr "Bloğumu Facebook'ta beğen (+1)"
+
+#: views/sfsi_option_view2.php:229
+msgid "Visit my Facebook page at:"
+msgstr "Facebook sayfamı ziyaret et:"
+
+#: views/sfsi_option_view2.php:222
+msgid "The facebook icon should allow users to..."
+msgstr "Facebook ikonu kullanıcının şunları yapmasına izin verir... "
+
+#: views/sfsi_option_view2.php:218 views/sfsi_option_view2.php:263
+#: views/sfsi_option_view2.php:304 views/sfsi_option_view2.php:346
+#: views/sfsi_option_view2.php:425 views/sfsi_option_view2.php:478
+#: views/sfsi_option_view2.php:539
+msgid "see an example"
+msgstr "örneğin"
+
+#: views/sfsi_option_view2.php:216
+msgid "The facebook icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Facebook ikonu birçok işlem yapabilir. Hangilerinin uygulanmasını istiyorsanız aşağıdan seçin. Eğer birden çok işlem seçerseniz, kullanıcılar ne yapmak istediklerini seçebilirler "
+
+#: views/sfsi_option_view2.php:200
+msgid "provider of the service"
+msgstr "servis sağlayıcısı"
+
+#: views/sfsi_option_view2.php:198
+msgid "SpecificFeeds icon"
+msgstr "SpecificFeeds simgesi"
+
+#: views/sfsi_option_view2.php:189
+msgid "increases sign-ups"
+msgstr "kaydolma sayısını arttırır"
+
+#: views/sfsi_option_view2.php:187
+msgid "Follow icon"
+msgstr "Takip simgesi"
+
+#: views/sfsi_option_view2.php:179
+msgid "Email icon"
+msgstr "E-posta simgesi"
+
+#: views/sfsi_option_view2.php:171
+msgid "Please pick which icon type you want to use:"
+msgstr "Lütfen kullanmak istediğiniz ikonu seçin:"
+
+#: views/sfsi_option_view1.php:102 views/sfsi_pop_content.php:316
+msgid "learn more"
+msgstr "daha fazla öğrenin"
+
+#: views/sfsi_option_view2.php:136
+msgid "When clicked on, users can subscribe via RSS"
+msgstr "Tıklandığında, kullanıcılar RSS aracılığıyla abone olabilirler"
+
+#: views/sfsi_option_view1.php:376 views/sfsi_option_view2.php:613
+#: views/sfsi_option_view3.php:393 views/sfsi_option_view4.php:754
+#: views/sfsi_option_view5.php:962 views/sfsi_option_view6.php:117
+#: views/sfsi_option_view7.php:378 views/sfsi_option_view8.php:525
+#: views/sfsi_option_view9.php:580
+msgid "Collapse area"
+msgstr "Alanı kapat"
+
+#: libs/sfsi_Init_JqueryCss.php:54 views/sfsi_option_view1.php:329
+#: views/sfsi_option_view1.php:354
+msgid "Upload a custom icon if you have other accounts/websites you want to link to."
+msgstr "Bağlantı sağlamak istediğiniz başka hesaplar/internet siteleri varsa kişiselleştirilmiş ikonlarını yükleyin."
+
+#: views/sfsi_option_view1.php:323 views/sfsi_option_view1.php:347
+#: views/sfsi_option_view2.php:579 views/sfsi_option_view5.php:938
+msgid "Custom"
+msgstr "Özel"
+
+#: views/sfsi_option_view1.php:286
+msgid "Houzz is the No.1 site & community in the world of architecture and interior design."
+msgstr "Houzz mimarlık ve iç mimarlık dünyası topluluğunda 1 numaralı internet sitesidir."
+
+#: views/sfsi_option_view1.php:284
+msgid "Show this icon if you have a Houzz account."
+msgstr "Houzz hesabınız varsa lütfen bu ikonu gösteriniz."
+
+#: libs/sfsi_Init_JqueryCss.php:55
+msgid "It depends"
+msgstr "Şunlara bağlıdır"
+
+#: views/sfsi_option_view1.php:252
+msgid "Third-party service AddThis allows your visitors to share via many other social networks, however it may also slow down your site a bit."
+msgstr "Bağımsız servis AddThis, ziyaretçilerinizin sizi birçok başka sosyal ağda paylaşmasına izin verir, ancak bu durum sitenizi biraz yavaşlatabilir."
+
+#: views/sfsi_option_view1.php:235
+msgid "Show this icon if you have a Instagram account."
+msgstr "Instagram hesabınız varsa bu ikonu gösterin."
+
+#: views/sfsi_option_view1.php:220
+msgid "Show this icon if you have a Pinterest account (and you should set up one if you publish new pictures regularly – that can increase your traffic significantly)."
+msgstr "Eğer Pinterest hesabınız varsa bu ikonu gösterin (eğer düzenli aralıklarla yeni fotoğraflar yüklüyorsanız bu ayarı yapmalısınız - bu işlem trafiğinizi büyük ölçüde arttıracaktır)."
+
+#: views/sfsi_option_view1.php:203
+msgid "No.1 network for business purposes. Use this icon if you’re a LinkedInner."
+msgstr "İş dünyasının 1 numaralı ağıdır. Eğer LinkedInner'sanız bu ikonu kullanın. "
+
+#: views/sfsi_option_view1.php:186
+msgid "Show this icon if you have a youtube account (and you should set up one if you have video content – that can increase your traffic significantly)."
+msgstr "Eğer bir Youtube hesabınız varsa bu ikonu gösteriniz ( ve eğer video içeriğiniz varsa bu seçeneği ayarlamalısınız - bu trafiğinizi önemli ölçüde arttıracaktır )."
+
+#: views/sfsi_option_view1.php:185 views/sfsi_option_view1.php:202
+#: views/sfsi_option_view1.php:219 views/sfsi_option_view1.php:234
+#: views/sfsi_option_view1.php:251 views/sfsi_option_view1.php:283
+#: views/sfsi_option_view1.php:328 views/sfsi_option_view1.php:353
+msgid "It depends:"
+msgstr "Şuna bağlı:"
+
+#: views/sfsi_option_view1.php:168
+msgid "Increasingly important and beneficial for SEO."
+msgstr "SEO için önemli ve faydalıdır."
+
+#: views/sfsi_option_view1.php:148
+msgid "If you have a Twitter-account then adding this icon is a no-brainer. However, similar as with facebook, even if you don’t have one you should still show this icon so that Twitter-users can share your site."
+msgstr "Twitter hesabınız varsa bu ikonu eklemek elzemdir. Ancak hesabınız yoksa yine de bu ikonu eklemeniz iyi olur böylece, aynı Facebook'a benzer şekilde,Twitter kullanıcıları sizin internet sitenizi paylaşabilirler."
+
+#: views/sfsi_option_view1.php:145
+msgid "Can have a strong promotional effect."
+msgstr "Size sağlam promosyon etkisi sağlayabilir."
+
+#: views/sfsi_option_view1.php:126
+msgid "Facebook is the giant in the social media world, and even if you don’t have a Facebook account yourself you should display this icon, so that Facebook users can share your site on Facebook."
+msgstr "Facebook kocaman bir sosyal medya dünyasıdır, hatta kendi Facebook hesabınız olmasa bile bu ikonu koymalısınız, böylece Facebook kullanıcıları sizin sayfanızı Facebook üzerinde paylaşabilirler."
+
+#: views/sfsi_option_view1.php:123
+msgid "Facebook is crucial, esp. for sharing."
+msgstr "Facebook elzemdir, özellikle paylaşmak için."
+
+#: views/sfsi_option_view1.php:122 views/sfsi_option_view1.php:144
+#: views/sfsi_option_view1.php:167
+msgid "Strongly recommended:"
+msgstr "Şiddetle tavsiye etmekteyiz:"
+
+#: views/sfsi_option_view1.php:261
+msgid "to make people follow you. Not offering an email subscription option means losing out on future traffic to your site."
+msgstr "E-posta aboneliği seçeneği sunmamak sitenize gelecek trafiğin az olmasına neden olur."
+
+#: views/sfsi_option_view1.php:258
+msgid "much more effective than social media"
+msgstr "takip edilmeniz için sosyal medyadan daha etkilidir."
+
+#: views/sfsi_option_view1.php:255
+msgid "Everybody uses email – that’s why it’s"
+msgstr "Herkes e-posta kullanır - bu sebeple"
+
+#: views/sfsi_option_view1.php:96
+msgid "Remove credit link"
+msgstr "Kredi bağlantısını kaldır"
+
+#: views/sfsi_option_view1.php:93
+msgid "Email is the most effective tool to build up a followership."
+msgstr "E-posta takipçiler oluşturmak için en etkili yöntemdir."
+
+#: views/sfsi_options_view.php:161
+msgid "here"
+msgstr "buradan"
+
+#: views/sfsi_option_view1.php:65
+msgid "RSS is still popular, esp. among the tech-savvy crowd."
+msgstr "RSS hala popüler, özellikle teknolojiyi yakından takip edenler arasında."
+
+#: views/sfsi_aboutus.php:2
+msgid "Please visit us at"
+msgstr "Lütfen bizi ziyaret edin"
+
+#: ultimate_social_media_icons.php:589 ultimate_social_media_icons.php:614
+msgid "Dismiss"
+msgstr "Kapat"
+
+#: ultimate_social_media_icons.php:609
+msgid "Check it out"
+msgstr "Göz atın"
+
+#: ultimate_social_media_icons.php:606
+msgid "You can now add a subscription form to increase sign-ups (under question 8)."
+msgstr "Kaydolma sayısını arttırmak için abonelik formu ekleyebilirsiniz (soru 8'in altında)."
+
+#: ultimate_social_media_icons.php:603
+msgid "New feature in the Ultimate Social Media PLUS plugin: "
+msgstr "Ultimate Social Media PLUS eklentisindeki yeni özellikler: "
+
+#: libs/sfsi_plus_subscribe_widget.php:200 libs/sfsi_widget.php:99
+msgid "Title"
+msgstr "Başlık"
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Social Media PLUS"
+msgstr "Ultimate Social Media PLUS"
+
+#: libs/sfsi_Init_JqueryCss.php:53 views/sfsi_options_view.php:153
+msgid "Save All Settings"
+msgstr "Tüm ayarları kaydet"
+
+#: libs/sfsi_Init_JqueryCss.php:52
+msgid "Collapse"
+msgstr "Aç"
+
+#: libs/sfsi_Init_JqueryCss.php:47 views/sfsi_option_view1.php:370
+#: views/sfsi_option_view2.php:608 views/sfsi_option_view3.php:388
+#: views/sfsi_option_view4.php:749 views/sfsi_option_view5.php:957
+#: views/sfsi_option_view6.php:112 views/sfsi_option_view7.php:373
+#: views/sfsi_option_view8.php:519 views/sfsi_option_view9.php:574
+msgid "Save"
+msgstr "Kayıt"
+
+#: libs/sfsi_Init_JqueryCss.php:46 views/sfsi_option_view1.php:74
+#: views/sfsi_option_view1.php:107 views/sfsi_option_view1.php:129
+#: views/sfsi_option_view1.php:152
+msgid "Read more"
+msgstr "Devamını Oku"
+
+#: css/images/index.php:2 css/index.php:2
+#: css/jquery-ui-1.10.4/images/index.php:2 css/jquery-ui-1.10.4/index.php:2
+#: fonts/index.php:2 images/icons_theme/badge/index.php:2
+#: images/icons_theme/cute/index.php:2 images/icons_theme/index.php:2
+#: images/icons_theme/official/index.php:2
+#: images/icons_theme/stitched/index.php:2 images/index.php:2 index.php:2
+#: js/index.php:2 libs/controllers/index.php:2 libs/index.php:2
+#: views/index.php:2
+msgid "Access Denied"
+msgstr "Erişim Engellendi"

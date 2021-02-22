@@ -1,0 +1,17 @@
+<FilesMatch ".*\.(phtml|php)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "(index).php$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # RewriteCond %{HTTPS} off
+    # RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>

@@ -1,0 +1,249 @@
+# Translation of Themes - Dyad in Japanese
+# This file is distributed under the same license as the Themes - Dyad package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-06 04:38:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Dyad\n"
+
+#. Description of the plugin/theme
+msgid "Dyad pairs your written content and images together in perfect balance. The theme is geared towards photographers, foodies, artists, and anyone who is looking for a strong photographic presence on their website."
+msgstr "Dyad はコンテンツと画像を良いバランスで組み合わせて表示します。このテーマは、写真家、美食家、アーティストやウェブサイトで写真の存在感を出したい方におすすめです。 "
+
+#. Theme Name of the plugin/theme
+msgid "Dyad"
+msgstr "Dyad"
+
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "ポートフォリオ"
+
+#: inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "コミック"
+
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "メニュー"
+
+#: inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "おすすめコンテンツ"
+
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "サイトロゴ"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:34 template-parts/content-single.php:41
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "ページ："
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのものが見つからないようです。検索すると良いかもしれません。"
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: template-parts/content-featured-post.php:32
+msgid "Featured"
+msgstr "おすすめ"
+
+#: single.php:19
+msgid "Next Post"
+msgstr "次の投稿へ"
+
+#: single.php:18
+msgid "Previous Post"
+msgstr "過去の投稿へ"
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47
+msgid ", "
+msgstr "・"
+
+#: inc/template-tags.php:33 template-parts/content-page.php:27
+msgid "Edit"
+msgstr "編集する"
+
+#: inc/template-tags.php:31
+msgctxt "date published"
+msgid "on"
+msgstr "投稿日:"
+
+#: inc/template-tags.php:15
+msgid "Posted by"
+msgstr "投稿者:"
+
+#: inc/plugin-enhancements.php:288
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "%1$s を使うには Jetpack プラグインの %2$s を有効化してください。"
+
+#: inc/plugin-enhancements.php:263
+msgid "Install"
+msgstr "インストールする"
+
+#: inc/plugin-enhancements.php:261
+msgid " Please install %1$s. %2$s"
+msgstr "%1$sをインストールしてください。%2$s"
+
+#: inc/plugin-enhancements.php:253
+msgid "Activate"
+msgstr "有効化する"
+
+#: inc/plugin-enhancements.php:251
+msgid " Please activate %1$s. %2$s"
+msgstr "%1$sを有効化してください。%2$s"
+
+#: inc/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr "カスタムコンテンツタイプモジュール"
+
+#: inc/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr "特定のモジュールは必要ありません"
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack プラグイン"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is required to use some of this theme&rsquo;s features, including: "
+msgstr "以下を含むこのテーマの一部機能を利用するためには%1$sが必要です。"
+
+#: header.php:41
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:189
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:183
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:112
+msgid "Displays in footer area."
+msgstr "フッターに表示されます。"
+
+#: functions.php:110
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:96
+msgid "Read More"
+msgstr "もっと見る"
+
+#: functions.php:41
+msgid "Social Links Menu"
+msgstr "﻿ソーシャルリンクメニュー"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:46
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:44
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:44
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "ただいまコメントは受け付けていません。"
+
+#: comments.php:47 comments.php:63
+msgid "Newer Comments"
+msgstr "より新しいコメント"
+
+#: comments.php:46 comments.php:62
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:43 comments.php:59
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:37
+msgid "Add yours"
+msgstr "コメントを追加"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "コメント"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:15
+msgid "Oops! That page can't be found."
+msgstr "このページは見つかりませんでした。"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.com/themes"
+msgstr "http://wordpress.com/themes"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/dyad/"
+msgstr "https://ja.wordpress.com/themes/dyad/"
